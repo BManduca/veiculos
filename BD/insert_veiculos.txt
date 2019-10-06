@@ -1,0 +1,5 @@
+insert into veiculos (nome,marca,modelo,data_fabricacao,cons_med_comb_cidade,cons_med_comb_rodov) VALUES('Renegade','Jeep','Crossovers subcompactos','2016/03/14','10.6','11.2');
+insert into veiculos (nome,marca,modelo,data_fabricacao,cons_med_comb_cidade,cons_med_comb_rodov) VALUES('HB20','Hyundai','Compacto','2017/05/10','12.5','14.1');
+insert into veiculos (nome,marca,modelo,data_fabricacao,cons_med_comb_cidade,cons_med_comb_rodov) VALUES('Ka','Ford','SubCompacto','2016/08/20','13.0','15.1');
+insert into veiculos (nome,marca,modelo,data_fabricacao,cons_med_comb_cidade,cons_med_comb_rodov) VALUES('Polo TSI','Volkswagen','Sedan Compacto','2018/09/25','12.0','13.9');
+insert into veiculos (nome,marca,modelo,data_fabricacao,cons_med_comb_cidade,cons_med_comb_rodov) VALUES('Huracan','Lamborghini','Coupê','2019/10/01','6.0','11.0');
